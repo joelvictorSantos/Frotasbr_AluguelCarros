@@ -1,7 +1,7 @@
 <h1>FrotasBr</h1>
 Img
 
-FrotasBr é um projeto criado com o objetivo de simular as grandes empresas de aluguel de veículos do mercado brasileiro, como Localiza, Movida e Unidas. Ele serve como uma mini simulação dos conceitos e funcionalidades dessas grandes companhias.
+FrotasBr é um projeto criado com o objetivo de simular as grandes empresas de aluguel de veículos do mercado brasileiro, como <b>Localiza, Movida e Unidas</b>. Ele serve como uma mini simulação dos conceitos e funcionalidades dessas grandes companhias.
 
 <h2>📚 Descrição</h2>
 
