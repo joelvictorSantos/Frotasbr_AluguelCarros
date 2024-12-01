@@ -20,11 +20,11 @@ const Footer = () => {
             <nav>
                 <ul>
                 <li><span>
-                <a href="https://www.linkedin.com/in/joel-victor-brand%C3%A3o-dos-santos-188ab7272/?originalSubdomain=br" target="_blank" rel="noopener noreferrer">
+                 <a href="https://github.com/joelvictorSantos" target="_blank" rel="noopener noreferrer">
                 <FaGithub size={32} />
                 </a></span></li>
                 <li><span>
-                <a href="https://github.com/joelvictorSantos" target="_blank" rel="noopener noreferrer">    
+                 <a href="https://www.linkedin.com/in/joel-victor-brand%C3%A3o-dos-santos-188ab7272/?originalSubdomain=br" target="_blank" rel="noopener noreferrer"> 
                 <FaLinkedin size={32} />
                 </a></span></li>
                 </ul>
