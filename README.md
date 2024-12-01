@@ -4,6 +4,7 @@ Img
 FrotasBr é um projeto criado com o objetivo de simular as grandes empresas de aluguel de veículos do mercado brasileiro, como Localiza, Movida e Unidas. Ele serve como uma mini simulação dos conceitos e funcionalidades dessas grandes companhias.
 
 📚 Descrição
+
 FrotasBr permite que você gerencie o aluguel de veículos por meio de um sistema intuitivo e prático. Entre as funcionalidades disponíveis, destacam-se:
 
 Cadastro e login de usuários.
@@ -12,6 +13,7 @@ Visualização de dados na seção "Minhas Reservas".
 Simulação de um backend utilizando o json-server para o armazenamento de dados.
 
 ⚙️ Como Funciona
+
 A aplicação utiliza o npm como gerenciador de pacotes. Para iniciar o projeto, use:
 
 bash
