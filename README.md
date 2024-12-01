@@ -19,7 +19,7 @@ Simulação de um backend utilizando o json-server para o armazenamento de dados
 
 A aplicação utiliza o npm como gerenciador de pacotes. Para iniciar o projeto, digite no prompt de comando:
 
-<b>npm run dev</b>
+<br>npm run dev</br>
 
 Caso queira ativar o sistema de cadastro, login e envio do formulário para solicitar uma reserva, execute também no prompt de comando:
 
