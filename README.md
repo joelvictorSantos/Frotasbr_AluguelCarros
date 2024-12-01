@@ -8,7 +8,7 @@ FrotasBr é um projeto criado com o objetivo de simular as grandes empresas de a
 
 FrotasBr permite que você gerencie o aluguel de veículos por meio de um sistema intuitivo e prático. Entre as funcionalidades disponíveis, destacam-se:
 
-Páginas Estéticas de veículos
+Páginas Estéticas de veículos.
 
 Cadastro e login de usuários.
 
@@ -45,7 +45,7 @@ Simulação de backend com json-server
 
 Você pode acessar o site clicando no link abaixo, hospedado no Vercel:
 
-https://frotasbr-aluguel-carros.vercel.app/frotasbr/Volkswagen-Polo
+https://frotasbr-aluguel-carros.vercel.app/
 
 <h2>💡 Possíveis Melhorias</h2>
 
