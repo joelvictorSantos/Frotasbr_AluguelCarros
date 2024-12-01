@@ -8,8 +8,11 @@ FrotasBr é um projeto criado com o objetivo de simular as grandes empresas de a
 FrotasBr permite que você gerencie o aluguel de veículos por meio de um sistema intuitivo e prático. Entre as funcionalidades disponíveis, destacam-se:
 
 Cadastro e login de usuários.
+
 Solicitação de reservas por meio de formulários.
+
 Visualização de dados na seção "Minhas Reservas".
+
 Simulação de um backend utilizando o json-server para o armazenamento de dados.
 
 <h2>⚙️ Como Funciona</h2>
