@@ -33,7 +33,9 @@ Acesse a aplicação no navegador e, na seção "Minhas Reservas", visualize sua
 Este projeto foi desenvolvido utilizando:
 
 React.js
+
 Npm e Yarn
+
 Simulação de backend com json-server
 
 <h2>🛠️ Como Acessar o Site</h2>
