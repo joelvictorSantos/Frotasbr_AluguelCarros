@@ -44,7 +44,8 @@ Simulação de backend com json-server
 <h2>🛠️ Como Acessar o Site</h2>
 
 Você pode acessar o site clicando no link abaixo, hospedado no Vercel:
-FrotasBr na Vercel
+
+https://frotasbr-aluguel-carros.vercel.app/frotasbr/Volkswagen-Polo
 
 <h2>💡 Possíveis Melhorias</h2>
 
